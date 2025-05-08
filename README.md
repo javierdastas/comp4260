@@ -1,4 +1,4 @@
-# Proyecto Final del Curso COMP 4260 DISTRIBUTED COMPUTING
+# PROYECTO FINAL DEL CURSO
 
 ![Proyecto Azure for Students](./images/project_banner.png)
 

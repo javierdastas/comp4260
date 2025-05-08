@@ -24,6 +24,7 @@ Este proyecto guía a los estudiantes en la implementación de una aplicación w
 | [Tutorial_Completo_Proyecto_Azure.md](./Tutorial_Completo_Proyecto_Azure.md)         | Tutorial completo en español que guía el proceso de creación, configuración y despliegue de la aplicación en Azure.                             |
 | [Tutorial_Complete_Project_Azure_EN.md](./Tutorial_Complete_Project_Azure_EN.md)     | Versión en inglés del tutorial completo para la creación y despliegue de la aplicación en Azure.                                                |
 | [Plantilla_Presentacion_Proyecto.md](./Plantilla_Presentacion_Proyecto.md)           | Plantilla estructurada para la presentación del proyecto, incluyendo título, objetivos, arquitectura, retos, soluciones y lecciones aprendidas. |
+| [Proyecto Flask a Implementar](./azure_students_project.zip)                         | Estructurada con archivos que contiene todo el código necesario y estructurado para el proyecto de Flask a implementar.                         |
 
 ## Créditos
 
